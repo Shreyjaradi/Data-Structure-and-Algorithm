@@ -1,4 +1,4 @@
---LeetCode Problem link : https://leetcode.com/problems/baseball-game/
+# LeetCode Problem link : https://leetcode.com/problems/baseball-game/
 
 class Solution:
     def removeDuplicates(self, s: str) -> str:
