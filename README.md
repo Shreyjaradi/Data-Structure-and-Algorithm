@@ -1,7 +1,7 @@
 # Data-Structure-and-Algorithm
 
 
-Leet Code Practice Questions by each topics.
+Leet Code Practice Questions Solution by each topics.
 
  - Array 
  - String
